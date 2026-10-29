@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **This repository has moved.** psp-comtrade is now the `psp.comtrade` subpackage of
+> [U-RxI/psp](https://github.com/U-RxI/psp), including its full commit history.
+> This repository is archived and will not receive updates.
+>
+> ```bash
+> uv pip install "git+https://github.com/U-RxI/psp"
+> ```
+
 # psp-comtrade
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
